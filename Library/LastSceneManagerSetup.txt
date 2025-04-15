@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/MultiObjectTrackingExample.unity
+- path: Assets/Scenes/Colour.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
